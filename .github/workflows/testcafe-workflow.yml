@@ -20,4 +20,4 @@ jobs:
       - name: Run TestCafe Tests
         uses: DevExpress/testcafe-action@latest
         with:
-          args: "chrome:headless ./test/*.js"
+          args: "chrome:headless *_firsttest.js"
