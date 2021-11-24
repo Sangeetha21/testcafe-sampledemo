@@ -1,0 +1,54 @@
+{
+  "uid" : "7d1fa0c43ffcd614",
+  "name" : "My first test",
+  "fullName" : "Getting Started.My first test",
+  "historyId" : "43b7276752d4f1a817ca32c4ad9a16f9",
+  "time" : {
+    "start" : 1637744993734,
+    "stop" : 1637745018207,
+    "duration" : 24473
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Getting Started"
+  }, {
+    "name" : "testClass",
+    "value" : "Getting Started"
+  }, {
+    "name" : "testMethod",
+    "value" : "My first test"
+  }, {
+    "name" : "package",
+    "value" : "Getting Started"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 96.0.4664.55 / macOS 10.15.7"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d1fa0c43ffcd614.json",
+  "parameterValues" : [ "Chrome 96.0.4664.55 / macOS 10.15.7" ]
+}

@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "testcafe": "^1.17.1"
+    "testcafe": "^1.17.1",
+    "testcafe-reporter-allure": "^1.0.5"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Getting Started",
+    "children" : [ {
+      "name" : "My first test",
+      "uid" : "7d1fa0c43ffcd614",
+      "parentUid" : "a455519c026d33dd3bf61ea0633fb024",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637744993734,
+        "stop" : 1637745018207,
+        "duration" : 24473
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 96.0.4664.55 / macOS 10.15.7" ]
+    } ],
+    "uid" : "a455519c026d33dd3bf61ea0633fb024"
+  } ],
+  "name" : "packages"
+}
